@@ -1,2 +1,2 @@
 # vmexit.dev
-Mostly a website showing of my technical skills but in the future I will add a project portfolio view, etc.
+My personal website written in Vue.js with small features.
